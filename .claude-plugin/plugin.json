@@ -1,0 +1,11 @@
+{
+  "name": "wan27-media",
+  "version": "0.1.0",
+  "description": "Generate AI images and videos with Wan27 through MCP or CLI. Includes model discovery, credit estimates and task tracking. Paid Wan27 subscription required.",
+  "author": {"name": "Wan27", "url": "https://wan2-7.io/"},
+  "homepage": "https://wan2-7.io/mcp/",
+  "repository": "https://github.com/NotUsingGithub/wan27-media",
+  "license": "MIT",
+  "keywords": ["wan27", "image-generation", "video-generation", "mcp", "agent-skill"],
+  "skills": "./"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wan27 Media"
+  short_description: "Create images and videos with Wan27 credits"
+  default_prompt: "Use $wan27-media to choose a video model and estimate the credits for my prompt."
